@@ -1,0 +1,5 @@
+cache/
+ner_venv/
+bert_ner_model/
+bert_ner_tokenizer/
+training_history.csv
